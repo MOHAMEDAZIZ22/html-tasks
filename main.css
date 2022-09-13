@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, gray, black, gray);
+}
+.container{
+    color: white;
+}
+h1{
+    color: red;
+}
